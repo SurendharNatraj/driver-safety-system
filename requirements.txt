@@ -1,9 +1,10 @@
 opencv-python
+streamlit==1.28.0
+altair==4.2.2
 scipy
 numpy
 pandas
 scikit-learn
-streamlit
 pygame
 matplotlib
 seaborn
